@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">SMid</string>
+    //Message Toast
+    <string name="toast_update_img">Update Success</string>
+    <string name="toast_add_img">Add Success</string>
+    <string name="toast_removed_action">Removed</string>
+    <string name="toast_droped_action">Droped</string>
+    <string name="toast_register_action">Register Successful</string>
+    <string name="toast_login_success">Login Success</string>
+    <string name="toast_login_fail">Login Fail</string>
+
+    //Hardcode login layout
+    <string name="tv_text_Login">Login App</string>
+    <string name="edtT_hint_Login_Username">Username</string>
+    <string name="edtT_hint_Login_Password">Password</string>
+    <string name="btn_text_Login_Register">Register</string>
+    <string name="btn_text_Login_Login">Login</string>
+
+    //Hardcode main layout
+    <string name="tv_text_Main_loginState">stateLogin is False</string>
+    <string name="tv_text_Main_Quantity">Quantity: 0</string>
+    <string name="btn_text_Main_Add">Add</string>
+    <string name="btn_text_Main_Finish">Finish</string>
+
+    //Hardcode result layout
+    <string name="tv_text_Result">All score:</string>
+    <string name="btn_text_Result_logOut">Log Out</string>
+
+    //Hardcode dialogRegister layout
+    <string name="tv_text_dialogRegister">Register</string>
+    <string name="tv_hint_dialogRegister_Username">Username</string>
+    <string name="tv_hint_dialogRegister_Password">Password</string>
+    <string name="btn_text_dialogRegister_Register">Submit</string>
+
+    //Setting max-mín Scale of img_main
+    <integer name="maxScale">3</integer>
+    <integer name="minScale">1</integer>
+
+</resources>
